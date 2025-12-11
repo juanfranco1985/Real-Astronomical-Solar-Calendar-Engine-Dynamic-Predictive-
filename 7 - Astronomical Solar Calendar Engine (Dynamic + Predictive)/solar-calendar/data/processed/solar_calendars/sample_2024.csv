@@ -1,0 +1,6 @@
+date,season,solar_index,distance_to_center,phase,progress,declination_deg,fixed_season,fixed_index,deviation,event_name
+2024-01-01,winter,32,-14,approach,0.34831460674157305,-23.0,winter,12,20,december_solstice_prev
+2024-03-20,spring,46,0,peak,0.5056179775280899,0.0,spring,46,0,march_equinox
+2024-06-21,summer,46,0,peak,0.5056179775280899,23.44,summer,46,0,june_solstice
+2024-09-22,autumn,47,1,decline,0.5168539325842697,-0.2,autumn,48,-1,september_equinox
+2024-12-21,winter,46,0,peak,0.5056179775280899,-23.4,winter,46,0,december_solstice
